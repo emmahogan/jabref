@@ -1,10 +1,8 @@
 # JabRef Bibliography Management
 
-[![Deployment Status](https://github.com/JabRef/jabref/workflows/Deployment/badge.svg)](https://github.com/JabRef/jabref/actions?query=workflow%3ADeployment)
-[![Build Status](https://github.com/JabRef/jabref/workflows/Tests/badge.svg)](https://github.com/JabRef/jabref/actions?query=workflow%3ATests)
-[![codecov.io](https://codecov.io/github/JabRef/jabref/coverage.svg?branch=master)](https://codecov.io/github/JabRef/jabref?branch=master)
 [![Paypal Donate](https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square)](https://paypal.me/JabRef)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/jabref/localized.svg)](https://crowdin.com/project/jabref)
+[![dev-docs](https://img.shields.io/badge/dev-docs-blue)](https://devdocs.jabref.org/)
 
 JabRef is an open-source, cross-platform citation and reference management tool.
 
